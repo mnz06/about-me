@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnz06
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java and kotlin projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on phyton-based projects
 - 📫 How to reach me email- superiorvenom2006@gmail.com
 - 😄 Pronouns: he/him
 <!---
