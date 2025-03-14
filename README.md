@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mnz06
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on phyton-based projects
+- 👀 I’m interested in coding & web development
+- 🌱 I’m currently learning html,css,javascript & python
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me email- superiorvenom2006@gmail.com
 - 😄 Pronouns: he/him
 <!---
